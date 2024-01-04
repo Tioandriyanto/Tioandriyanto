@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Tioandriyanto
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on google developer student club in uin walisongo semarang
-- 📫 How to reach me im stay in semarang city in ngaliyan,bringin 
+- 👀 I’m interested in  Full-stack developer
+- 🌱 I’m currently learning JavaScript, Node.js and Flutter
+- 📫 How to reach me at tioandriyanto666@gmail.com 
 
 <!---
 Tioandriyanto/Tioandriyanto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
