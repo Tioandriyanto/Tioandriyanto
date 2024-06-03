@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tioandriyanto
 - 👀 I’m interested in  Full-stack developer
-- 🌱 I’m currently learning JavaScript, Node.js and Flutter
+- 🌱 I’m currently learning JavaScript, react js
 - 📫 How to reach me at tioandriyanto666@gmail.com 
 
 <!---
