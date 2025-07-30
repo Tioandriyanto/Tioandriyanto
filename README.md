@@ -1,4 +1,4 @@
- # 💫 Hi Folks!
+ # 💫 Hi Folks! 
 I am a intresed in Backend Developer and Security Engginer with a focus on developing efficient and secure backend systems. Currently, I am learning Laravel, PHP, JavaScript,and Typescript to build scalable and secure web applications.<br><br>I have a strong interest in cybersecurity, particularly in API security, web security, and ethical hacking. Additionally, I enjoy collaborating on challenging software development projects and sharing knowledge about best security practices in web development.<br><br>Feel free to reach out if you’d like to discuss backend development or cyberecurity! 🚀🔒 
 
 
