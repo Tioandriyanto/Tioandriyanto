@@ -1,6 +1,6 @@
  # 💫 Hi Folks!
 I am a intresed in Backend Developer and Security Engginer with a focus on developing efficient and secure backend systems. Currently, I am learning Laravel, PHP, JavaScript,and Typescript to build scalable and secure web applications.<br><br>I have a strong interest in cybersecurity, particularly in API security, web security, and ethical hacking. Additionally, I enjoy collaborating on challenging software development projects and sharing knowledge about best security practices in web development.<br><br>Feel free to reach out if you’d like to discuss backend development or cyberecurity! 🚀🔒
- 
+  
 ## 🌐 Socials: 
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://www.behance.net/tioandriyanto) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thyoandry) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/tioandriyanto/) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/TioAndriyanto) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/30087024) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:thyoandry.dev@gmail.com) 
 
